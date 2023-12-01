@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busrasulukan&label=Profile%20views&color=0e75b6&style=flat" alt="busrasulukan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=busrasulukan" alt="busrasulukan" /></a> </p>
-👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/brasulukan)
+👨‍💻 Some of my projects are available at [Kaggle](https://www.kaggle.com/brasulukan)
 
 📝 I regularly write articles on [Medium](https://medium.com/@bsulukan18)
 
